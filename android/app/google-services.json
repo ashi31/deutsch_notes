@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "411690561706",
+    "firebase_url": "https://deutsch-notes.firebaseio.com",
+    "project_id": "deutsch-notes",
+    "storage_bucket": "deutsch-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411690561706:android:99b51948ddc05ed8cf20d3",
+        "android_client_info": {
+          "package_name": "com.ashitagupta.deutsch_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411690561706-b9feqc0hqi5j18c1s05h4eg0iglicc8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashitagupta.deutsch_notes",
+            "certificate_hash": "915ac4c5c58677ddacd62347ade9b0f3f2e27c92"
+          }
+        },
+        {
+          "client_id": "411690561706-275cgbes6kbg41p3s4lrr1j3q76fl55r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmyp6xKYtLUi2Y-_r7x7w2JG8qs8pd6Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411690561706-275cgbes6kbg41p3s4lrr1j3q76fl55r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
